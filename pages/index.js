@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Nice try scammer" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+    <img src="https://c.tenor.com/mAlJkmN3TEcAAAAC/hackerman-emote.gif" >
         </p>
       </main>
 
