@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Next.js Starter!</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="https://i.imgur.com/Ep405fQ.png" />
       </Head>
 
       <main>
