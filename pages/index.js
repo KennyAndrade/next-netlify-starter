@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>USAF Shippers Crash Page</title>
         <link rel="icon" href="https://i.imgur.com/Ep405fQ.png" />
       </Head>
 
