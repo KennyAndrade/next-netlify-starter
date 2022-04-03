@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="Nice try scammer!" />
-        <img src="https://c.tenor.com/mAlJkmN3TEcAAAAC/hackerman-emote.gif">
+        <img src="https://c.tenor.com/mAlJkmN3TEcAAAAC/hackerman-emote.gif" />
       </main>
 
       <Footer />
