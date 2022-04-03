@@ -5,7 +5,7 @@ export default function Footer() {
     <>
     <a href="https://discord.gg/usafshippers">
       <img alt="Join us on Discord!" src="https://i.imgur.com/7XCTfJM.png" 
-        width="150" height="150"/>
+        width="50" height="50"/>
     </a>
     </>
   )
