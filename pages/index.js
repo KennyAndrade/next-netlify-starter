@@ -4,9 +4,6 @@ import Footer from '@components/Footer'
 
 export default function Home() {
   return (
-    <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-  </head>
   <body>
     <!-- Replace "test" with your own sandbox Business account app client ID -->
     <script src="https://www.paypal.com/sdk/js?client-id=test&currency=USD"></script>
