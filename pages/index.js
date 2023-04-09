@@ -5,9 +5,7 @@ import Footer from '@components/Footer'
 export default function Home() {
   return (
   <body>
-    <!-- Replace "test" with your own sandbox Business account app client ID -->
     <script src="https://www.paypal.com/sdk/js?client-id=test&currency=USD"></script>
-    <!-- Set up a container element for the button -->
     <div id="paypal-button-container"></div>
     <script>
       paypal.Buttons({
